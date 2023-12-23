@@ -1,0 +1,10 @@
+python3 plas-sim-analysis.py seed_1
+python3 plas-sim-analysis.py seed_2
+python3 plas-sim-analysis.py seed_3
+python3 plas-sim-analysis.py seed_4
+python3 plas-sim-analysis.py seed_5
+python3 plas-sim-analysis.py seed_6
+python3 plas-sim-analysis.py seed_7
+python3 plas-sim-analysis.py seed_8
+python3 plas-sim-analysis.py seed_9
+
